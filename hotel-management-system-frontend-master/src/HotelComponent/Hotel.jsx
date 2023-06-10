@@ -193,7 +193,7 @@ const Hotel = () => {
               <div className="d-flex justify-content-between">
                 <p>
                   <span>
-                    <h4>Price : &#8377;{hotel.pricePerDay}</h4>
+                    <h4>Price :&#8381;{hotel.pricePerDay}</h4>
                   </span>
                 </p>
 
