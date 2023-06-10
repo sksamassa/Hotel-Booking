@@ -49,7 +49,7 @@ const HotelCard = (hotel) => {
           <div className="text-center text-color">
             <p>
               <span>
-                <h4>Price Per Price : &#8377;{hotel.item.pricePerDay}</h4>
+                <h4>Price Per Price : &#8381;{hotel.item.pricePerDay}</h4>
               </span>
             </p>
           </div>
